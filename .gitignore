@@ -1,0 +1,9 @@
+
+*
+
+!/src/
+!/src/main/resources/
+
+/src/*
+!/src/main/
+/src/main/*
